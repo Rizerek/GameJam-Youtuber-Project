@@ -4,7 +4,7 @@ Mechanics:
 You spin your sword - E
 Shoot a magic spell - Q
 Interact with buttons & Attack - Left Mouse Click
-![1](https://github.com/Rizerek/GameJam-Youtuber-Project/assets/91278157/980a6e01-d1d6-4b9a-85e9-802e67fd3121)
+![1](https://github.com/Rizerek/GameJam-Youtuber-Project/assets/91278157/65ff7a42-53f6-4e4c-b369-d51b3ba306bc)
 
 You have to use the elevator to enter the other level
 ![2](https://github.com/Rizerek/GameJam-Youtuber-Project/assets/91278157/e74fc320-d5b1-4694-afe7-f22918069989)
