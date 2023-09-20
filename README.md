@@ -1,5 +1,5 @@
 # GameJam-Youtuber-Project
-A 3D game I made for YT game contest 2 years ago (2021). Made in about 4 days
+A 3D game I made for YT game contest 3 years ago (2020). Made in about 4 days
 Mechanics: 
 You spin your sword - E
 Shoot a magic spell - Q
